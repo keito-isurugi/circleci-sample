@@ -1,6 +1,5 @@
 def sum( a , b )
-    a + b
+    a
 end
 
-p 'test'
 
